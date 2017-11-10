@@ -1,0 +1,32 @@
+{
+    "beam_diameter":"1.25",
+    "cleanup_duration":120.0,
+    "commit":"5958691feb16329b652330f8f6b804d0dd01134a",
+    "extract_device":"Fusions CO2",
+    "extract_duration":30.0,
+    "extract_units":"",
+    "extract_value":0.25,
+    "measured_response":"Tm8gUmVzcG9uc2U=",
+    "pattern":"triangle.lp",
+    "positions":[
+        {
+            "is_degas":false,
+            "position":"217",
+            "x":null,
+            "y":null,
+            "z":null
+        }
+    ],
+    "ramp_duration":0.0,
+    "ramp_rate":0.0,
+    "requested_output":"Tm8gUmVzcG9uc2U=",
+    "setpoint_stream":"",
+    "snapshots":[
+
+    ],
+    "tray":"221-hole",
+    "videos":[
+
+    ],
+    "weight":0.0
+}
